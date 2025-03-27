@@ -4,7 +4,7 @@ html {
   height: 100%;
   font-family: 'Montserrat', sans-serif;
 /* Background image from css-tricks */
-  background: url(header.jpg) no-repeat center center fixed; 
+  background: url(kalas.jpg) no-repeat center center fixed; 
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -12,7 +12,7 @@ html {
 }
 h1 {
   font-size:3rem;
-  color: #e2dbdb;
+  color: #F05F44;
 
 }
 hr {
